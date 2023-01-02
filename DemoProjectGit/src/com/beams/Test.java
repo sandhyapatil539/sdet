@@ -4,7 +4,7 @@ public class Test {
 
 	
 		public  void test() {
-			 System.out.println("Welcome to selenium classes");
+			 System.out.println("Welcome to selenium classes...");
 
 
 		}
